@@ -2,7 +2,7 @@
 Thursday
 ===
 
-Thursday is a starter theme based on Underscores and Sakura CSS. 
+Thursday is a minimal WordPress starter theme based on Underscores and Sakura CSS. 
 
 It's purpose is to give Clients and Content Editors an attractive but not distracting site to produce content, while the Development team works on site features and design.
 
